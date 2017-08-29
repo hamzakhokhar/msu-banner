@@ -15,3 +15,4 @@ Jesus Guzman created a new commit. <-- and added this text.
 
 Thien created a new push...
 
+And the purpose of this readme is to demonstrate the purpose of a readme. (Tarin was here)
