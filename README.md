@@ -15,6 +15,10 @@ Jesus Guzman created a new commit. <-- and added this text.
 
 Thien created a new push...
 
-Eric was here, testing how to do what.
-
 And the purpose of this readme is to demonstrate the purpose of a readme. (Tarin was here)
+
+Eric's contribution:
+I will be using IntelliJ as my IDE
+I will be the product owner for the first sprint
+We will be using Scrum on Trello as our management system
+We will be using Slack as our primary form of communication, but we also have Discord and email available
