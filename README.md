@@ -3,7 +3,7 @@ MSU Banner Project
 Team 3:
 Tarin Horne
 Eric Kearney
-Christian Kendall (Cool Guy's Test commit *2 times)
+Christian Kendall (Cool Guy's Test commit *3 times)
 Hamza Khokhar(11/18/1994) < Hamza added his DOB
 Matthew Kline
 ThienNgo Le
