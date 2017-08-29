@@ -4,7 +4,7 @@ Team 3:
 Tarin Horne
 Eric Kearney
 Christian Kendall
-Hamza Khokhar
+Hamza Khokhar(11/18/1994)
 Matthew Kline
 ThienNgo Le
 Jesus Guzman
