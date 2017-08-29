@@ -4,7 +4,7 @@ Team 3:
 Tarin Horne
 Eric Kearney
 Christian Kendall
-Hamza Khokhar(11/18/1994)
+Hamza Khokhar(11/18/1994) < Hamza added his DOB
 Matthew Kline
 ThienNgo Le
 Jesus Guzman
@@ -14,3 +14,4 @@ This project is the msu banner assignment for Software Development Methods and T
 Jesus Guzman created a new commit. <-- and added this text.
 
 Thien created a new push...
+
