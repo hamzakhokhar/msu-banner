@@ -22,4 +22,4 @@ Eric's contribution:
 I will be using IntelliJ as my IDE
 I will be the product owner for the first sprint
 We will be using Scrum on Trello as our management system
-We will be using Slack as our primary form of communication, but we also have Discord and email available
+We will be using Slack as our primary form of communication, but we also have Discord and email available.
