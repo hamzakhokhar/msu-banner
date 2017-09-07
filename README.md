@@ -3,23 +3,19 @@ MSU Banner Project
 Team 3:
 Tarin Horne,
 Eric Kearney,
-Christian Kendall (Cool Guy's Test commit *3 times),
-Hamza Khokhar(11/18/1994) < Hamza added his DOB,
+Christian Kendall,
+Hamza Khokhar,
 Matthew Kline,
 ThienNgo Le,
 Jesus Guzman.
 
-This project is the msu banner assignment for Software Development Methods and Tools course. 
+This project is the MSU Banner assignment for Software Development Methods and Tools course. 
 This project was completed by team 3 using the Scrum development method. 
 
-Jesus Guzman created a new commit. <-- and added this text.
+For this project we chose not to care which IDE that the members will be using. IntelliJ and Eclipse are the IDE's that we have decided to use with an even split between the two. 
 
-Thien created a new push...
+We have chosen to rotate the responsibilities of Scrum Master and Product owner every sprint and will all be acting as developers. 
 
-And the purpose of this readme is to demonstrate the purpose of a readme. (Tarin was here)
+We will be using Scrum on Trello as our management system to assign tasks and to stay on schedule with what our customer is requiring. 
 
-Eric's contribution:
-I will be using IntelliJ as my IDE
-I will be the product owner for the first sprint
-We will be using Scrum on Trello as our management system
-We will be using Slack as our primary form of communication, but we also have Discord and email available.
+We will be using Slack as our primary form of communication, but we also have Discord and email available as needed. 
